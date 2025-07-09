@@ -8,7 +8,7 @@ The project reflects my understanding of frontend technologies and UI/UX design 
 
 ## 🖥️ Live Demo
 
-🔗 [View Live on Netlify](https://resume-aryanjhanwar.netlify.app/)
+🔗 [View Live on Netlify](https://portfolio-aryanjhanwar.netlify.app/)
 
 ---
 
