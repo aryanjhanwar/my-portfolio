@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website — CODECRAFT_WD_04
 
-This is a **personal portfolio website** created as part of the **Web Development Internship at CODECRAFT (29 June – 14 July 2025)**. The website is designed to showcase my skills, projects, and professional background as an aspiring full-stack web developer.
+This is a **personal portfolio website** . The website is designed to showcase my skills, projects, and professional background as an aspiring full-stack web developer.
 
 The project reflects my understanding of frontend technologies and UI/UX design principles, and serves as a digital resume for future opportunities.
 
